@@ -1,0 +1,90 @@
+body {
+  background-color: grey;
+}
+
+#the_rapper {
+  overflow: hidden;
+  margin: 4em auto;
+  background: black;
+}
+
+#the_logo h1 {
+  text-align: center;
+  text-transform: uppercase;
+}
+
+#the_logo h1 a {
+  font-size: 2em;
+  color: #fff;
+}
+
+#the_logo h1 span {
+  color: #e94730;
+}
+
+#showtime ul {
+  margin: 0px 0px 0px 0px;
+  padding: 0px 0px;
+  list-style: none;
+  line-height: normal;
+  text-align: center;
+}
+
+#showtime a {
+  display: block;
+  margin: 0em 3em;
+  padding: 1em 0em;
+  text-decoration: none;
+  text-transform: uppercase;
+  text-shadow: 0px 1px 0px rgba(0, 0, 0, 0.5);
+  text-align: center;
+  font-weight: 200;
+  font-family: "Raleway", sans-serif;
+  color: #666666;
+  border: none;
+}
+
+#showtime .current_page_item a {
+  color: #ffffff;
+}
+
+#showtime .first {
+  border-left: none;
+}
+
+#end h2 {
+  display: block;
+  padding-bottom: 0.2em;
+  letter-spacing: -1px;
+  text-transform: uppercase;
+  font-size: 3em;
+  font-weight: 600;
+  color: #fff;
+  padding-left: 200px;
+}
+
+#end span {
+  display: block;
+  padding-bottom: 0.5em;
+  letter-spacing: -1px;
+  text-transform: uppercase;
+  font-size: 1.8em;
+  font-weight: 200;
+  color: #e94730;
+  padding-left: 420px;
+  margin-top: 50px;
+}
+
+.button-style {
+  font-size: 20px;
+  display: inline-block;
+  margin-top: 20px;
+  padding: 7px 20px;
+  background: #272727;
+  border-radius: 5px;
+  text-decoration: none;
+  text-transform: uppercase;
+  color: #ffffff;
+  background-color: orange;
+  margin-left: 490px;
+}
